@@ -3,6 +3,7 @@ def display_board
   print " d  "
   print " ==  "
   puts "dick"
+  print "what"
 end
 
 display_board
