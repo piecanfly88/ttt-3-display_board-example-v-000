@@ -4,6 +4,7 @@ def display_board
   print " ==  "
   puts "dick"
   puts "what"
+  puts "cock"
 end
 
 display_board
