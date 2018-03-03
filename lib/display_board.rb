@@ -2,6 +2,7 @@
 def display_board
   print " d  "
   print " ==  "
+  puts "dick"
 end
 
 display_board
